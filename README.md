@@ -44,7 +44,6 @@ The Express.js server exposes multiple GET endpoints:
 
 Pagination is applied to APIs that might return large amounts of data, such as lists of followers, posts, etc.
 
----
 
 ### 5. **Result**
 
@@ -52,8 +51,10 @@ Pagination is applied to APIs that might return large amounts of data, such as l
 
 ![alt text](image-1.png)
 
+---
 
-#### Postman Collection JSON File
+
+## Postman Collection JSON File
 
 ```json
 {
@@ -110,8 +111,6 @@ Pagination is applied to APIs that might return large amounts of data, such as l
 - Puppeteer (for scraping)
 
 ## Installation
-
-### Step 1: Clone the Repository
 
 ```bash
 
